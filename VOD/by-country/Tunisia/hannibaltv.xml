@@ -4,10 +4,9 @@
 <fanart></fanart>
 #######################################################################################################################################
 
-
 <dir>
 <name>Videos</name>
-<link>http://gdata.youtube.com/feeds/api/videos?author=UCTzeZivDTfkLWm6B7ldWf5g</link>
+<link>http://gdata.youtube.com/feeds/api/users/UCTzeZivDTfkLWm6B7ldWf5g/uploads</link>
 <thumbnail>http://images3.wikia.nocookie.net/__cb20120617213533/breakingbad/images/4/47/Season_1_AMC_Poster.jpg</thumbnail>
 </dir>
 
