@@ -4,7 +4,6 @@
 <fanart></fanart>
 #######################################################################################################################################
 
-
 <dir>
 <name>Videos</name>
 <link>http://gdata.youtube.com/feeds/api/videos?author=EttounsiaReplay</link>
@@ -15,6 +14,12 @@
 <name>Playlists</name>
 <link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
 <thumbnail>http://www.pariscine.com/sites/default/files/affiches_series_tv/breaking_bad_s2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>all</name>
+<link>https://gdata.youtube.com/feeds/api/users/EttounsiaReplay</link>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20120617213533/breakingbad/images/4/47/Season_1_AMC_Poster.jpg</thumbnail>
 </dir>
 
 </items>
