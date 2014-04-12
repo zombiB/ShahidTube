@@ -5,8 +5,13 @@
 #######################################################################################################################################
 
 <dir>
-<name>Videos</name>
+<name>Videos1</name>
 <link>http://gdata.youtube.com/feeds/api/users/TnMediasReplayTv/uploads</link>
+<thumbnail></thumbnail>
+</dir>
+<dir>
+<name>Videos2</name>
+<link>http://gdata.youtube.com/feeds/api/users/TnMediasReplay/uploads</link>
 <thumbnail></thumbnail>
 </dir>
 
