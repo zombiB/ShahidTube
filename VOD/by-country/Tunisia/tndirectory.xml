@@ -17,4 +17,16 @@
 <thumbnail>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Artwork/htv.png</thumbnail>
 </dir>
 
+<dir>
+<name>NessmaTv</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/Tunisia/ettounsya.xml</link>
+<thumbnail>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Artwork/tounsya.png</thumbnail>
+</dir>
+
+<dir>
+<name>AlMutawasit</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/Tunisia/hannibaltv.xml</link>
+<thumbnail>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Artwork/htv.png</thumbnail>
+</dir>
+
 </items>
