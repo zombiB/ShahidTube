@@ -1,0 +1,17 @@
+<items>
+
+<dir>
+<name>Videos</name>
+<link>http://gdata.youtube.com/feeds/api/users/UCQJcdAGME1iU8ZHMbvFm3yQ/uploads</link>
+<thumbnail>https://yt3.ggpht.com/-TmxHTAQIauc/AAAAAAAAAAI/AAAAAAAAAAA/4Zrk5IeW4DI/s100-c-k-no/photo.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Playlists</name>
+<link>http://gdata.youtube.com/feeds/api/users/UCQJcdAGME1iU8ZHMbvFm3yQ/playlists</link>
+<thumbnail>https://yt3.ggpht.com/-TmxHTAQIauc/AAAAAAAAAAI/AAAAAAAAAAA/4Zrk5IeW4DI/s100-c-k-no/photo.jpg</thumbnail>
+</dir>
+
+
+
+</items>
