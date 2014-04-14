@@ -11,10 +11,12 @@
 <thumbnail>http://i.imgur.com/9g4ySmY.png</thumbnail>
 </dir>
 
+
 <dir>
-<name>Egypt</name>
-<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
-<thumbnail>http://i.imgur.com/QkPCZuR.png</thumbnail>
+<name>lebanon</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/lebanon/lebdir.xml</link>
+<thumbnail>http://i.imgur.com/9g4ySmY.png</thumbnail>
 </dir>
+
 
 </items>
