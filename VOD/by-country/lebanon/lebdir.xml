@@ -1,0 +1,24 @@
+<items>
+#######################################################################################################################################
+<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
+<fanart></fanart>
+#######################################################################################################################################
+
+<dir>
+<name>jadeed</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/lebanon/jadeed.xml</link>
+<thumbnail></thumbnail>
+</dir>
+
+
+<dir>
+<name>future</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/lebanon/future.xml</link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name>watania1</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/Tunisia/watania1.xml</link>
+<thumbnail></thumbnail>
+</dir>
