@@ -19,14 +19,13 @@
 
 <dir>
 <name>azouziVine</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/Tunisia/nessma.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/by-genre/comedy/azouzi.xml</link>
 <thumbnail>https://yt3.ggpht.com/-VnyMtbYG8J0/AAAAAAAAAAI/AAAAAAAAAAA/r57Fk2E0qpU/s100-c-k-no/photo.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>AlMutawasit</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/by-genre/comedy/azouzi.xml</link>
-<thumbnail>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Artwork/htv.png</thumbnail>
+<name>3al6ayer</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/by-genre/comedy/tayer.xml</link>
+<thumbnail>https://yt3.ggpht.com/-aBwwnsXm18w/AAAAAAAAAAI/AAAAAAAAAAA/3Uq5bwQXQqw/s100-c-k-no/photo.jpg</thumbnail>
 </dir>
-
 </items>
