@@ -22,5 +22,17 @@
 <link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
 <thumbnail></thumbnail>
 </dir>
+<dir>
+<name>EDU</name>
+<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name>VideoMaker</name>
+<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
+<thumbnail></thumbnail>
+</dir>
+
 
 </items>
