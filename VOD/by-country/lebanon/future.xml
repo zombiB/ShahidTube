@@ -4,112 +4,151 @@
 <fanart></fanart>
 #######################################################################################################################################
 
-
 <dir>
-<name>Videos-News</name>
+<name>News-New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/futuretvnews/uploads</link>
 <thumbnail></thumbnail>
+<youtubeuser>futuretvnews</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists-News</name>
+<name>News-Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/futuretvnews/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>futuretvnews</youtubeuser>
 </dir>
 
 <dir>
-<name>Videos-Society & Lifestyle</name>
+<name>Society  Lifestyle-New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/futureprogramstv2/uploads</link>
-<thumbnail>https://yt3.ggpht.com/-C7Cx2d7I2XY/AAAAAAAAAAI/AAAAAAAAAAA/fyr4U5GI1Ow/s900-c-k-no/photo.jpg</thumbnail>
+<thumbnail></thumbnail>
+<youtubeuser>futureprogramstv2</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists-Society & Lifestyle</name>
+<name>Society  Lifestyle-Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/futureprogramstv2/playlists</link>
-<thumbnail>https://yt3.ggpht.com/-C7Cx2d7I2XY/AAAAAAAAAAI/AAAAAAAAAAA/fyr4U5GI1Ow/s900-c-k-no/photo.jpg</thumbnail>
+<thumbnail></thumbnail>
+<youtubeuser>futureprogramstv2</youtubeuser>
 </dir>
 
+
 <dir>
-<name>Videos-Zaven Kouyoumdjian</name>
+<name>Zaven Kouyoumdjian-New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/zavenonline/uploads</link>
 <thumbnail></thumbnail>
+<youtubeuser>zavenonline</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists-Zaven Kouyoumdjian</name>
+<name>Zaven Kouyoumdjian-Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/zavenonline/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>zavenonline</youtubeuser>
 </dir>
 
 <dir>
-<name>Videos-Entertainment</name>
+<name>Entertainment-New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/tol3itfik/uploads</link>
 <thumbnail></thumbnail>
+<youtubeuser>tol3itfik</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists-Entertainment</name>
+<name>Entertainment-Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/tol3itfik/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>tol3itfik</youtubeuser>
 </dir>
 
 <dir>
-<name>Videos-La Youmal</name>
+<name>La Youmal-New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/futuretvlayoumal/uploads</link>
 <thumbnail></thumbnail>
+<youtubeuser>futuretvlayoumal</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists-La Youmal</name>
+<name>La Youmal-Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/futuretvlayoumal/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>futuretvlayoumal</youtubeuser>
 </dir>
 
 <dir>
-<name>Videos-Politics</name>
+<name>Politics-New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/futureprogramstv4/uploads</link>
 <thumbnail></thumbnail>
+<youtubeuser>futureprogramstv4</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists-Politics</name>
+<name>Politics-Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/futureprogramstv4/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>futureprogramstv4</youtubeuser>
 </dir>
 
+
 <dir>
-<name>Videos-Nadim Koteich</name>
+<name>Nadim Koteich-New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/DNALebanon/uploads</link>
 <thumbnail></thumbnail>
+<youtubeuser>DNALebanon</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists-Nadim Koteich</name>
+<name>Nadim Koteich-Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/DNALebanon/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>DNALebanon</youtubeuser>
 </dir>
 
+
 <dir>
-<name>Videos-Alam Alsabah</name>
+<name>Alam Alsabah-New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/futuretvalamalsabah/uploads</link>
 <thumbnail></thumbnail>
+<youtubeuser>Alam Alsabah</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists-Alam Alsabah</name>
+<name>Alam Alsabah-Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/futuretvalamalsabah/playlists</link>
 <thumbnail></thumbnail>
-</dir>
-<dir>
-<name>Videos-InterViews</name>
-<link>http://gdata.youtube.com/feeds/api/users/InterViewsLebanon/uploads</link>
-<thumbnail></thumbnail>
+<youtubeuser>Alam Alsabah</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists-InterViews</name>
+<name>InterViews-New</name>
+<type>videos</type>
+<link>http://gdata.youtube.com/feeds/api/users/InterViewsLebanon/uploads</link>
+<thumbnail></thumbnail>
+<youtubeuser>InterViewsLebanon</youtubeuser>
+</dir>
+
+<dir>
+<name>InterViews-Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/InterViewsLebanon/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>InterViewsLebanon</youtubeuser>
 </dir>
 
 
