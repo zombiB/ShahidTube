@@ -1,21 +1,9 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
+
 
 <dir>
 <name>New</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/samiratv2014/uploads</link>
-<thumbnail></thumbnail>
-<youtubeuser>samiratv2014</youtubeuser>
-</dir>
-
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/samiratv2014/playlists</link>
 <thumbnail></thumbnail>
 <youtubeuser>samiratv2014</youtubeuser>
 </dir>

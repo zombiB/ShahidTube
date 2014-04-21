@@ -1,156 +1,68 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
+
 
 <dir>
-<name>News-New</name>
+<name>News</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/futuretvnews/uploads</link>
 <thumbnail></thumbnail>
 <youtubeuser>futuretvnews</youtubeuser>
 </dir>
 
 <dir>
-<name>News-Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/futuretvnews/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>futuretvnews</youtubeuser>
-</dir>
-
-<dir>
-<name>Society  Lifestyle-New</name>
+<name>Society  Lifestyle</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/futureprogramstv2/uploads</link>
-<thumbnail></thumbnail>
-<youtubeuser>futureprogramstv2</youtubeuser>
-</dir>
-
-<dir>
-<name>Society  Lifestyle-Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/futureprogramstv2/playlists</link>
 <thumbnail></thumbnail>
 <youtubeuser>futureprogramstv2</youtubeuser>
 </dir>
 
 
 <dir>
-<name>Zaven Kouyoumdjian-New</name>
+<name>Zaven Kouyoumdjian</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/zavenonline/uploads</link>
 <thumbnail></thumbnail>
 <youtubeuser>zavenonline</youtubeuser>
 </dir>
 
 <dir>
-<name>Zaven Kouyoumdjian-Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/zavenonline/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>zavenonline</youtubeuser>
-</dir>
-
-<dir>
-<name>Entertainment-New</name>
+<name>Entertainment</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/tol3itfik/uploads</link>
 <thumbnail></thumbnail>
 <youtubeuser>tol3itfik</youtubeuser>
 </dir>
 
 <dir>
-<name>Entertainment-Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/tol3itfik/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>tol3itfik</youtubeuser>
-</dir>
-
-<dir>
-<name>La Youmal-New</name>
+<name>La Youmal</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/futuretvlayoumal/uploads</link>
 <thumbnail></thumbnail>
 <youtubeuser>futuretvlayoumal</youtubeuser>
 </dir>
 
 <dir>
-<name>La Youmal-Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/futuretvlayoumal/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>futuretvlayoumal</youtubeuser>
-</dir>
-
-<dir>
-<name>Politics-New</name>
+<name>Politics</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/futureprogramstv4/uploads</link>
 <thumbnail></thumbnail>
 <youtubeuser>futureprogramstv4</youtubeuser>
 </dir>
 
 <dir>
-<name>Politics-Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/futureprogramstv4/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>futureprogramstv4</youtubeuser>
-</dir>
-
-
-<dir>
-<name>Nadim Koteich-New</name>
+<name>Nadim Koteich</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/DNALebanon/uploads</link>
 <thumbnail></thumbnail>
 <youtubeuser>DNALebanon</youtubeuser>
 </dir>
 
 <dir>
-<name>Nadim Koteich-Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/DNALebanon/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>DNALebanon</youtubeuser>
-</dir>
-
-
-<dir>
-<name>Alam Alsabah-New</name>
+<name>Alam Alsabah</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/futuretvalamalsabah/uploads</link>
 <thumbnail></thumbnail>
 <youtubeuser>Alam Alsabah</youtubeuser>
 </dir>
 
 <dir>
-<name>Alam Alsabah-Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/futuretvalamalsabah/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>Alam Alsabah</youtubeuser>
-</dir>
-
-<dir>
-<name>InterViews-New</name>
+<name>InterViews</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/InterViewsLebanon/uploads</link>
 <thumbnail></thumbnail>
 <youtubeuser>InterViewsLebanon</youtubeuser>
 </dir>
-
-<dir>
-<name>InterViews-Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/InterViewsLebanon/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>InterViewsLebanon</youtubeuser>
-</dir>
-
-
 
 </items>

@@ -1,20 +1,12 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
 
 <dir>
-<name>Videos</name>
-<link>http://gdata.youtube.com/feeds/api/users/alresalahnet/uploads</link>
+<name>New</name>
+<type>videos</type>
 <thumbnail></thumbnail>
+<youtubeuser>alresalahnet</youtubeuser>
 </dir>
 
-<dir>
-<name>Playlists</name>
-<link>http://gdata.youtube.com/feeds/api/users/alresalahnet/playlists</link>
-<thumbnail></thumbnail>
-</dir>
 
 
 

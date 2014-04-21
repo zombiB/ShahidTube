@@ -1,17 +1,10 @@
 <items>
+
 <dir>
 <name>New</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/aljazeeradoc/uploads</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_documentary.png</thumbnail>
+<thumbnail></thumbnail>
 <youtubeuser>aljazeeradoc</youtubeuser>
 </dir>
 
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/aljazeeradoc/playlists</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_documentary.png</thumbnail>
-<youtubeuser>aljazeeradoc</youtubeuser>
-</dir>
 </items>

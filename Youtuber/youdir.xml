@@ -15,19 +15,19 @@
 
 <dir>
 <name>Music</name>
-<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/music/musdir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
 <name>islam</name>
-<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/islam/isdir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
 <name>VideoMaker</name>
-<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/vidmake/viddir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
