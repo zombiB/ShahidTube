@@ -3,16 +3,7 @@
 <dir>
 <name>New</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/MelodyMusicGroup/uploads</link>
-<thumbnail></thumbnail>
-<youtubeuser>MelodyMusicGroup</youtubeuser>
-</dir>
-
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/MelodyMusicGroup/playlists</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 <youtubeuser>MelodyMusicGroup</youtubeuser>
 </dir>
 

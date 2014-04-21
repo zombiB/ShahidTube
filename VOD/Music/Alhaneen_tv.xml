@@ -1,16 +1,8 @@
 <items>
+
 <dir>
 <name>New</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/TheMusicalhaneentv/uploads</link>
-<thumbnail>https://yt3.ggpht.com/--hcAjPDHKFM/AAAAAAAAAAI/AAAAAAAAAAA/cGjFNDJbt2o/s100-c-k-no/photo.jpg</thumbnail>
-<youtubeuser>TheMusicalhaneentv</youtubeuser>
-</dir>
-
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/TheMusicalhaneentv/playlists</link>
 <thumbnail>https://yt3.ggpht.com/--hcAjPDHKFM/AAAAAAAAAAI/AAAAAAAAAAA/cGjFNDJbt2o/s100-c-k-no/photo.jpg</thumbnail>
 <youtubeuser>TheMusicalhaneentv</youtubeuser>
 </dir>

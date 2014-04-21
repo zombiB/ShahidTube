@@ -1,16 +1,9 @@
 <items>
 
-<item>
-<link>http://gdata.youtube.com/feeds/api/users/3alshasha/uploads</link>
-<thumbnail></thumbnail>
-<youtubeuser>3alshasha</youtubeuser>
-</item>
-
 <dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/3alshasha/playlists</link>
-<thumbnail></thumbnail>
+<name>New</name>
+<type>videos</type>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 <youtubeuser>3alshasha</youtubeuser>
 </dir>
 
