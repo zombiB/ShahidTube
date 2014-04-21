@@ -7,18 +7,14 @@
 <dir>
 <name>jadeed</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/lebanon/jadeed.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/Bv9ryj4.png</thumbnail>
 </dir>
 
 
 <dir>
 <name>future</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/lebanon/future.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/QjphFqd.png</thumbnail>
 </dir>
 
-<dir>
-<name>watania1</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/Tunisia/watania1.xml</link>
-<thumbnail></thumbnail>
-</dir>
+</items>
