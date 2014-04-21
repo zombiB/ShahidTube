@@ -1,0 +1,20 @@
+<items>
+#######################################################################################################################################
+<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
+<fanart></fanart>
+#######################################################################################################################################
+
+<dir>
+<name>3alshasha</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/lebanon/jadeed.xml</link>
+<thumbnail>https://yt3.ggpht.com/-rYMNYPFfSEE/AAAAAAAAAAI/AAAAAAAAAAA/o1tD80OQaI8/s100-c-k-no/photo.jpg</thumbnail>
+</dir>
+
+
+<dir>
+<name>future</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/lebanon/future.xml</link>
+<thumbnail>http://i.imgur.com/QjphFqd.png</thumbnail>
+</dir>
+
+</items>

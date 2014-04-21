@@ -5,15 +5,21 @@
 #######################################################################################################################################
 
 <dir>
-<name>Cooking</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/Her/herdir.xml</link>
+<name>New</name>
+<type>videos</type>
+<link>http://gdata.youtube.com/feeds/api/users/3alshasha/uploads</link>
 <thumbnail></thumbnail>
+<youtubeuser>3alshasha</youtubeuser>
 </dir>
 
 <dir>
-<name>Movies</name>
-<link></link>
+<name>Lists</name>
+<type>playlist</type>
+<link>http://gdata.youtube.com/feeds/api/users/3alshasha/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>3alshasha</youtubeuser>
 </dir>
+
+
 
 </items>

@@ -5,7 +5,7 @@
 #######################################################################################################################################
 
 <dir>
-<name>New</name>
+<name>New-1</name>
 <type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/ChoumichaWebTV/uploads</link>
 <thumbnail></thumbnail>
@@ -13,11 +13,27 @@
 </dir>
 
 <dir>
-<name>Lists</name>
+<name>Lists-2</name>
 <type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/ChoumichaWebTV/playlists</link>
 <thumbnail></thumbnail>
 <youtubeuser>ChoumichaWebTV</youtubeuser>
+</dir>
+<dir>
+
+<name>New-2</name>
+<type>videos</type>
+<link>http://gdata.youtube.com/feeds/api/users/tvchoumicha/uploads</link>
+<thumbnail></thumbnail>
+<youtubeuser>tvchoumicha</youtubeuser>
+</dir>
+
+<dir>
+<name>Lists-2</name>
+<type>playlist</type>
+<link>http://gdata.youtube.com/feeds/api/users/tvchoumicha/playlists</link>
+<thumbnail></thumbnail>
+<youtubeuser>tvchoumicha</youtubeuser>
 </dir>
 
 
