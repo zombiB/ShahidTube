@@ -5,17 +5,20 @@
 #######################################################################################################################################
 
 <dir>
-<name>Videos</name>
+<name>New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/UCV9f1g_Nlc7gEzzpF/uploads</link>
 <thumbnail></thumbnail>
+<youtubeuser>UCV9f1g_Nlc7gEzzpF</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists</name>
+<name>Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/UCV9f1g_Nlc7gEzzpF/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>UCV9f1g_Nlc7gEzzpF</youtubeuser>
 </dir>
-
 
 
 </items>

@@ -5,21 +5,29 @@
 #######################################################################################################################################
 
 <dir>
-<name>Videos1</name>
+<name>Vids1</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/TnMediasReplayTv/uploads</link>
 <thumbnail></thumbnail>
-</dir>
-<dir>
-<name>Videos2</name>
-<link>http://gdata.youtube.com/feeds/api/users/TnMediasReplay/uploads</link>
-<thumbnail></thumbnail>
+<youtubeuser>TnMediasReplayTv</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists</name>
+<name>Vids2</name>
+<type>videos</type>
+<link>http://gdata.youtube.com/feeds/api/users/TnMediasReplay/uploads</link>
+<thumbnail></thumbnail>
+<youtubeuser>TnMediasReplay</youtubeuser>
+</dir>
+
+<dir>
+<name>Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/TnMediasReplayTv/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>TnMediasReplayTv</youtubeuser>
 </dir>
+
 
 
 

@@ -5,17 +5,20 @@
 #######################################################################################################################################
 
 <dir>
-<name>Videos</name>
+<name>New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/UCQJcdAGME1iU8ZHMbvFm3yQ/uploads</link>
-<thumbnail>https://yt3.ggpht.com/-TmxHTAQIauc/AAAAAAAAAAI/AAAAAAAAAAA/4Zrk5IeW4DI/s100-c-k-no/photo.jpg</thumbnail>
+<thumbnail></thumbnail>
+<youtubeuser>UCQJcdAGME1iU8ZHMbvFm3yQ</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists</name>
+<name>Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/UCQJcdAGME1iU8ZHMbvFm3yQ/playlists</link>
-<thumbnail>https://yt3.ggpht.com/-TmxHTAQIauc/AAAAAAAAAAI/AAAAAAAAAAA/4Zrk5IeW4DI/s100-c-k-no/photo.jpg</thumbnail>
+<thumbnail></thumbnail>
+<youtubeuser>UCQJcdAGME1iU8ZHMbvFm3yQ</youtubeuser>
 </dir>
-
 
 
 </items>
