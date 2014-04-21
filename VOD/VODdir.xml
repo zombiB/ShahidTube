@@ -23,25 +23,25 @@
 <dir>
 <name>Cooking</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Her/herdir.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 <dir>
 <name>Movies</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/movies/movdir.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 <dir>
 <name>Documentary</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/doc/docdir.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 <dir>
 <name>Music</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Music/musicdir.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 </items>
