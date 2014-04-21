@@ -12,19 +12,19 @@
 
 <dir>
 <name>Movies</name>
-<link></link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/movies/movdir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
 <name>Documentary</name>
-<link></link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/doc/docdir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
 <name>Music</name>
-<link></link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/Music/musicdir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
