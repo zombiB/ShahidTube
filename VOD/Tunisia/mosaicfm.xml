@@ -1,25 +1,10 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
 
 <dir>
 <name>New</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/MosaiqueWeb/uploads</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 <youtubeuser>MosaiqueWeb</youtubeuser>
 </dir>
-
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/MosaiqueWeb/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>MosaiqueWeb</youtubeuser>
-</dir>
-
-
 
 </items>

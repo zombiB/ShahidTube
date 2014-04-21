@@ -1,31 +1,16 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
-
 
 <dir>
 <name>New</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/UCTzeZivDTfkLWm6B7ldWf5g/uploads</link>
-<thumbnail></thumbnail>
-<youtubeuser>UCTzeZivDTfkLWm6B7ldWf5g</youtubeuser>
-</dir>
-
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/UCTzeZivDTfkLWm6B7ldWf5g/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>UCTzeZivDTfkLWm6B7ldWf5g</youtubeuser>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
+<channelid>UCTzeZivDTfkLWm6B7ldWf5g</channelid>
 </dir>
 
 <dir>
 <name>DomTekDom (show)</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/DomTekDomAG/uploads</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 <youtubeuser>DomTekDomAG</youtubeuser>
 </dir>
 

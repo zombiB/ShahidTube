@@ -1,31 +1,17 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
 
 <dir>
 <name>Vids1</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/TnMediasReplayTv/uploads</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 <youtubeuser>TnMediasReplayTv</youtubeuser>
 </dir>
 
 <dir>
 <name>Vids2</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/TnMediasReplay/uploads</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 <youtubeuser>TnMediasReplay</youtubeuser>
-</dir>
-
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/TnMediasReplayTv/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>TnMediasReplayTv</youtubeuser>
 </dir>
 
 

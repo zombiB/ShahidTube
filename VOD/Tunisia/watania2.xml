@@ -1,23 +1,11 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
+
 
 <dir>
 <name>New</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/UCxHCcvx8j3Tj-XWS/uploads</link>
-<thumbnail></thumbnail>
-<youtubeuser>UCxHCcvx8j3Tj-XWS</youtubeuser>
-</dir>
-
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/UCxHCcvx8j3Tj-XWS/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>UCxHCcvx8j3Tj-XWS</youtubeuser>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
+<channelid>UCxHCcvx8j3Tj-XWS</channelid>
 </dir>
 
 

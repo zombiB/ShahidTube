@@ -3,17 +3,9 @@
 <dir>
 <name>New</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/uploads</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 <youtubeuser>EttounsiaReplay</youtubeuser>
 </dir>
 
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>EttounsiaReplay</youtubeuser>
-</dir>
 
 </items>
