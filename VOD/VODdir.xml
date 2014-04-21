@@ -1,8 +1,4 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
 
 
 <dir>
@@ -10,7 +6,6 @@
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/tndirectory.xml</link>
 <thumbnail>http://i.imgur.com/9g4ySmY.png</thumbnail>
 </dir>
-
 
 <dir>
 <name>lebanon</name>
@@ -24,23 +19,6 @@
 <thumbnail>http://i.imgur.com/9NIivek.png</thumbnail>
 </dir>
 
-<dir>
-<name>Qatar</name>
-<link></link>
-<thumbnail>http://i.imgur.com/U8MXzLP.png</thumbnail>
-</dir>
-
-<dir>
-<name>Kuwait</name>
-<link></link>
-<thumbnail>http://i.imgur.com/Nd7r6yj.png</thumbnail>
-</dir>
-
-<dir>
-<name>Saudia</name>
-<link></link>
-<thumbnail>http://i.imgur.com/1qj6No5.png</thumbnail>
-</dir>
 
 <dir>
 <name>Cooking</name>
