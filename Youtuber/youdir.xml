@@ -2,31 +2,31 @@
 
 
 <dir>
-<name>Comedy</name>
+<name>Comedy-R</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/comedy/comdir.xml</link>
 <thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 <dir>
-<name>EDU</name>
+<name>EDU-R</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/EDU/edudir.xml</link>
 <thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 <dir>
-<name>Music</name>
+<name>Music-R</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/music/musdir.xml</link>
 <thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 <dir>
-<name>islam</name>
+<name>islam-R</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/islam/isdir.xml</link>
 <thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 <dir>
-<name>VideoMaker</name>
+<name>VideoMaker-R</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/vidmake/viddir.xml</link>
 <thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>

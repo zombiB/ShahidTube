@@ -2,44 +2,43 @@
 
 
 <dir>
-<name>Tunisia</name>
+<name>Tunisia-VOD</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/tndirectory.xml</link>
 <thumbnail>http://i.imgur.com/9g4ySmY.png</thumbnail>
 </dir>
 
 <dir>
-<name>lebanon</name>
+<name>lebanon-VOD</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/lebanon/lebdir.xml</link>
 <thumbnail>https://i.imgur.com/e0xrlJD.png</thumbnail>
 </dir>
 
 <dir>
-<name>Morocco</name>
+<name>Morocco-VOD</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Morocco/mardir.xml</link>
 <thumbnail>http://i.imgur.com/9NIivek.png</thumbnail>
 </dir>
 
-
 <dir>
-<name>Cooking</name>
+<name>Cooking-VOD</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Her/herdir.xml</link>
 <thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 <dir>
-<name>Movies</name>
+<name>Movies-VOD</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/movies/movdir.xml</link>
 <thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 <dir>
-<name>Documentary</name>
+<name>Documentary-VOD</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/doc/docdir.xml</link>
 <thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>
 
 <dir>
-<name>Music</name>
+<name>Music-VOD</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Music/musicdir.xml</link>
 <thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
 </dir>

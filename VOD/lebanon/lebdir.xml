@@ -9,14 +9,7 @@
 </dir>
 
 <dir>
-<name>jadeed</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/lebanon/jadeed.xml</link>
-<thumbnail>http://i.imgur.com/Bv9ryj4.png</thumbnail>
-</dir>
-
-
-<dir>
-<name>future</name>
+<name>future TV</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/lebanon/future.xml</link>
 <thumbnail>http://i.imgur.com/QjphFqd.png</thumbnail>
 </dir>
