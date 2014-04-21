@@ -8,13 +8,13 @@
 <dir>
 <name>By Country</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/country_diectory.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/8x1vMOP.png</thumbnail>
 </dir>
 
 <dir>
 <name>By Genre</name>
 <link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/F3WdIpv.png</thumbnail>
 </dir>
 
 </items>
