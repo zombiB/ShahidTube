@@ -1,29 +1,13 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
 
 <dir>
-<name>Cooking</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/Her/herdir.xml</link>
+<name>AlJazeeraDoc</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/doc/aljazeeradoc.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>Movies</name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>Documentary</name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>Music</name>
+<name></name>
 <link></link>
 <thumbnail></thumbnail>
 </dir>
