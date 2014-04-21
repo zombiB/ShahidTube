@@ -1,12 +1,10 @@
 <items>
 
-<dir>
-<name>New</name>
-<type>videos</type>
+<item>
 <link>http://gdata.youtube.com/feeds/api/users/3alshasha/uploads</link>
 <thumbnail></thumbnail>
 <youtubeuser>3alshasha</youtubeuser>
-</dir>
+</item>
 
 <dir>
 <name>Lists</name>
