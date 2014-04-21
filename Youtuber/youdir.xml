@@ -1,8 +1,4 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
 
 
 <dir>
@@ -14,6 +10,24 @@
 <dir>
 <name>EDU</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/EDU/edudir.xml</link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name>Music</name>
+<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name>islam</name>
+<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name>VideoMaker</name>
+<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
 <thumbnail></thumbnail>
 </dir>
 
