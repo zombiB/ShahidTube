@@ -7,18 +7,10 @@
 <dir>
 <name>New</name>
 <type>videos</type>
-<link>http://gdata.youtube.com/feeds/api/users/UCQ7Y6rkrtJK9OfxYD/uploads</link>
-<thumbnail></thumbnail>
-<youtubeuser>UCQ7Y6rkrtJK9OfxYD</youtubeuser>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
+<channelid>UCQ7Y6rkrtJK9OfxYD</channelid>
 </dir>
 
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/UCQ7Y6rkrtJK9OfxYD/playlists</link>
-<thumbnail></thumbnail>
-<youtubeuser>UCQ7Y6rkrtJK9OfxYD</youtubeuser>
-</dir>
 
 
 </items>
