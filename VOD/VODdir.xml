@@ -6,33 +6,21 @@
 
 
 <dir>
-<name>By Country</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/country_diectory.xml</link>
-<thumbnail>http://i.imgur.com/8x1vMOP.png</thumbnail>
-</dir>
-
-<dir>
-<name>By Genre</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/gendir.xml</link>
-<thumbnail>http://i.imgur.com/F3WdIpv.png</thumbnail>
-</dir>
-
-<dir>
 <name>Tunisia</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/Tunisia/tndirectory.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/tndirectory.xml</link>
 <thumbnail>http://i.imgur.com/9g4ySmY.png</thumbnail>
 </dir>
 
 
 <dir>
 <name>lebanon</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/lebanon/lebdir.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/lebanon/lebdir.xml</link>
 <thumbnail>https://i.imgur.com/e0xrlJD.png</thumbnail>
 </dir>
 
 <dir>
 <name>Morocco</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/Morocco/mardir.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Morocco/mardir.xml</link>
 <thumbnail>http://i.imgur.com/9NIivek.png</thumbnail>
 </dir>
 
@@ -56,25 +44,25 @@
 
 <dir>
 <name>Cooking</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/Her/herdir.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Her/herdir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
 <name>Movies</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/movies/movdir.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/movies/movdir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
 <name>Documentary</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/doc/docdir.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/doc/docdir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
 <name>Music</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-genre/Music/musicdir.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Music/musicdir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
