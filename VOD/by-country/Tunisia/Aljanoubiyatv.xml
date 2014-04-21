@@ -1,21 +1,23 @@
 <items>
-#######################################################################################################################################
+##############################################################################################################################
 <poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
 <fanart></fanart>
-#######################################################################################################################################
+##############################################################################################################################
 
 <dir>
-<name>Videos</name>
+<name>New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/aljanoubiyatelevisio/uploads</link>
-<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
+<thumbnail></thumbnail>
+<youtubeuser>aljanoubiyatelevisio</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists</name>
+<name>Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/aljanoubiyatelevisio/playlists</link>
-<thumbnail>http://i.imgur.com/RZ9BcdE.png</thumbnail>
+<thumbnail></thumbnail>
+<youtubeuser>aljanoubiyatelevisio</youtubeuser>
 </dir>
-
-
 
 </items>

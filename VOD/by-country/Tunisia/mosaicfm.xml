@@ -5,15 +5,19 @@
 #######################################################################################################################################
 
 <dir>
-<name>Videos</name>
+<name>New</name>
+<type>videos</type>
 <link>http://gdata.youtube.com/feeds/api/users/MosaiqueWeb/uploads</link>
 <thumbnail></thumbnail>
+<youtubeuser>MosaiqueWeb</youtubeuser>
 </dir>
 
 <dir>
-<name>Playlists</name>
+<name>Lists</name>
+<type>playlist</type>
 <link>http://gdata.youtube.com/feeds/api/users/MosaiqueWeb/playlists</link>
 <thumbnail></thumbnail>
+<youtubeuser>MosaiqueWeb</youtubeuser>
 </dir>
 
 
