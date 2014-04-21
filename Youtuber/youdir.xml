@@ -6,21 +6,16 @@
 
 
 <dir>
-<name>By Country</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/by-country/country_diectory.xml</link>
+<name>Comedy</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/comedy/comdir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 <dir>
-<name>By Genre</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/by-genre/genredir.xml</link>
+<name>EDU</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/EDU/edudir.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
-<dir>
-<name>NonArabic</name>
-<link>http://gdata.youtube.com/feeds/api/users/EttounsiaReplay/playlists</link>
-<thumbnail></thumbnail>
-</dir>
 
 </items>
