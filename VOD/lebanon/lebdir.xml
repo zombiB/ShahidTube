@@ -1,8 +1,12 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
+
+
+<dir>
+<name>AlJadeed</name>
+<type>videos</type>
+<thumbnail>http://i.imgur.com/Bv9ryj4.png</thumbnail>
+<youtubeuser>aljadeedonline</youtubeuser>
+</dir>
 
 <dir>
 <name>jadeed</name>
