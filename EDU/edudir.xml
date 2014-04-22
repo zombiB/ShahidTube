@@ -1,27 +1,26 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
-
 
 <dir>
 <name>7addoota | Õœı¯Ê ‹‹…</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/EDU/7addoota.xml</link>
-<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/t1.0-1/c41.22.276.276/p320x320/292466_428420553866854_1266757552_n.jpg</thumbnail>
+<type>videos</type>
+<thumbnail></thumbnail>
+<channelid>UCqqzmuOXMjNDoZJfNZSfmCQ</channelid>
 </dir>
 
 <dir>
 <name>abdullaheid</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/EDU/abdullaheid.xml</link>
-<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc1/t1.0-1/c22.22.276.276/p320x320/999712_10151541062676817_1693866868_n.jpg</thumbnail>
+<type>videos</type>
+<thumbnail></thumbnail>
+<channelid>UCzEYvv6Ciw_fnRIqK0cFdRQ</channelid>
 </dir>
-
+ 
 <dir>
 <name>sandokji</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Youtuber/EDU/sandokji.xml</link>
+<type>videos</type>
 <thumbnail>https://yt3.ggpht.com/-VnyMtbYG8J0/AAAAAAAAAAI/AAAAAAAAAAA/r57Fk2E0qpU/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>TheCashCool</youtubeuser>
 </dir>
+
 
 
 </items>

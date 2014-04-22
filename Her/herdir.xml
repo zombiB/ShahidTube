@@ -1,20 +1,17 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
 
 <dir>
-<name>Choumicha TV</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Her/Choumicha.xml</link>
-<thumbnail>http://i.imgur.com/lq1plEI.png</thumbnail>
+<name>samiratv</name>
+<type>videos</type>
+<thumbnail>http://i.imgur.com/jHtRi3d.png</thumbnail>
+<youtubeuser>samiratv2014</youtubeuser>
 </dir>
 
-
 <dir>
-<name>Samira TV</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Her/samira.xml</link>
-<thumbnail>http://i.imgur.com/jHtRi3d.png</thumbnail>
+<name>Choumicha</name>
+<type>videos</type>
+<thumbnail>http://i.imgur.com/lq1plEI.png</thumbnail>
+<youtubeuser>ChoumichaWebTV</youtubeuser>
 </dir>
 
 </items>

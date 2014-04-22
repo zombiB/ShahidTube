@@ -1,26 +1,10 @@
 <items>
 
 <dir>
-<name>Wardi</name>
-<link></link>
-<thumbnail></thumbnail>
+<name>AlaaWardi</name>
+<type>videos</type>
+<thumbnail>http://i.imgur.com/4vWU5xX.png</thumbnail>
+<youtubeuser>AlaaWardi</youtubeuser>
 </dir>
 
-<dir>
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
 </items>
