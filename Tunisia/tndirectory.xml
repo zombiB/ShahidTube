@@ -1,8 +1,5 @@
 <items>
-#######################################################################################################################################
-<poster>ShahidTube by Zombi floow me on twitter @zombixbmc</poster>
-<fanart></fanart>
-#######################################################################################################################################
+
 
 <dir>
 <name>TnMedias</name>
@@ -10,11 +7,11 @@
 <thumbnail>http://i.imgur.com/tDLw3Xt.png</thumbnail>
 </dir>
 
-
 <dir>
 <name>TNN</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/tnn.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/jK11Mx8.png</thumbnail>
+<youtubeuser>tunisiatnn</youtubeuser>
 </dir>
 
 <dir>
@@ -25,14 +22,16 @@
 
 <dir>
 <name>watania2</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/watania2.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/XvPUHc1.png</thumbnail>
+<channelid>UCxHCcvx8j3Tj-XWS</channelid>
 </dir>
 
 <dir>
 <name>Ettounsya</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/ettounsya.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/6wNyQ59.png</thumbnail>
+<youtubeuser>EttounsiaReplay</youtubeuser>
 </dir>
 
 <dir>
@@ -43,27 +42,32 @@
 
 <dir>
 <name>NessmaTv</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/nessma.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/UKONZIt.png</thumbnail>
+<youtubeuser>NessmaTVReplay</youtubeuser>
 </dir>
 
 <dir>
 <name>AlMutawasit</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/mutawasit.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/3Vcfo33.png</thumbnail>
+<channelid>UCQJcdAGME1iU8ZHMbvFm3yQ</channelid>
 </dir>
 
 <dir>
-<name> Aljanoubiyatv</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/Aljanoubiyatv.xml</link>
+<name>Aljanoubiyatv</name>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/nLU34ia.png</thumbnail>
+<youtubeuser>aljanoubiyatelevisio</youtubeuser>
 </dir>
 
 <dir>
 <name>Telvzatv</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/telvzatv.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/897RV5C.png</thumbnail>
+<youtubeuser>telvzatvchannel</youtubeuser>
 </dir>
+
 
 <dir>
 <name>QalamTV</name>
