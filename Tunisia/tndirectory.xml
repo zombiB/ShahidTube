@@ -1,6 +1,5 @@
 <items>
 
-
 <dir>
 <name>TnMedias</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/tnmedia.xml</link>
@@ -68,47 +67,52 @@
 <youtubeuser>telvzatvchannel</youtubeuser>
 </dir>
 
-
 <dir>
 <name>QalamTV</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/QalamTV.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/Ua9Juhd.png</thumbnail>
+<youtubeuser>QalamTV</youtubeuser>
 </dir>
 
 <dir>
 <name>ZitounaTv</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/ZitounaTv.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/rzKo9RI.png</thumbnail>
+<channelid>UCQ7Y6rkrtJK9OfxYD</channelid>
 </dir>
 
 <dir>
 <name>Tunisna</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/tunisna.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/tW4GwUn.png</thumbnail>
+<channelid>UCV9f1g_Nlc7gEzzpF</channelid>
 </dir>
-
 <dir>
 <name>hiwartounsi</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/hiwartn.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/4lERtGY.png</thumbnail>
+<youtubeuser>elhiwarettounsitv</youtubeuser>
 </dir>
 
-<dir>
+ <dir>
 <name>InsenTv</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/insen.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/wJDkLfa.png</thumbnail>
+<youtubeuser>AlinsenTv</youtubeuser>
 </dir>
 
 <dir>
 <name>MosaiqueFm</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/mosaicfm.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/AMkKYk2.png</thumbnail>
+<youtubeuser>MosaiqueWeb</youtubeuser>
 </dir>
 
 <dir>
 <name>RadioZitouna</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/Tunisia/radiozitouna.xml</link>
+<type>videos</type>
 <thumbnail>http://i.imgur.com/xpDEOTt.png</thumbnail>
+<youtubeuser>radiozitounafm</youtubeuser>
 </dir>
 
 <dir>
