@@ -19,6 +19,24 @@
 </dir>
 
 <dir>
+<name>Qatar-VOD</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/qatar/qatdir.xml</link>
+<thumbnail>http://i.imgur.com/8iVfC8J.png</thumbnail>
+</dir>
+
+<dir>
+<name>Kuwait-VOD</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/kuwait/kwdir.xml</link>
+<thumbnail>http://i.imgur.com/8iVfC8J.png</thumbnail>
+</dir>
+
+<dir>
+<name>KSA-VOD</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/ksa/ksadir.xml</link>
+<thumbnail>http://i.imgur.com/8iVfC8J.png</thumbnail>
+</dir>
+
+<dir>
 <name>Cooking-VOD</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Her/herdir.xml</link>
 <thumbnail>http://i.imgur.com/8iVfC8J.png</thumbnail>
@@ -49,6 +67,12 @@
 </dir>
 
 <dir>
+<name>Tech-R</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/tech-R/tech.xml</link>
+<thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
+</dir>
+
+<dir>
 <name>EDU-R</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/EDU/edudir.xml</link>
 <thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
@@ -75,12 +99,6 @@
 <dir>
 <name>VideoMaker-R</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/vidmake/viddir.xml</link>
-<thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
-</dir>
-
-<dir>
-<name>Tech-R</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/tech-R/tech.xml</link>
 <thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
 </dir>
 
