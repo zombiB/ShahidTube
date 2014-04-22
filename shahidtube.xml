@@ -56,7 +56,7 @@
 
 <dir>
 <name>Music-R</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/music/musdir.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/music-R/musdir.xml</link>
 <thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
 </dir>
 
@@ -75,6 +75,18 @@
 <dir>
 <name>VideoMaker-R</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/vidmake/viddir.xml</link>
+<thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
+</dir>
+
+<dir>
+<name>Tech-R</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/tech-R/tech.xml</link>
+<thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
+</dir>
+
+<dir>
+<name>Vlog-R</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/vlog-R/vlogdir.xml</link>
 <thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
 </dir>
 
