@@ -37,6 +37,13 @@
 </dir>
 
 <dir>
+<name>Series-VOD</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Series-VOD/serdir.xml</link>
+<thumbnail>http://i.imgur.com/8iVfC8J.png</thumbnail>
+</dir>
+
+
+<dir>
 <name>Cooking-VOD</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Her/herdir.xml</link>
 <thumbnail>http://i.imgur.com/8iVfC8J.png</thumbnail>
