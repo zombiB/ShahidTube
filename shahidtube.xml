@@ -67,6 +67,12 @@
 </dir>
 
 <dir>
+<name>Cartoon-R</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Cartoons/cartodir.xml</link>
+<thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
+</dir>
+
+<dir>
 <name>VideoMaker-R</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/vidmake/viddir.xml</link>
 <thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
