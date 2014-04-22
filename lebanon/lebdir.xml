@@ -10,8 +10,15 @@
 
 <dir>
 <name>future TV</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/lebanon/future.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/VOD/future.xml</link>
 <thumbnail>http://i.imgur.com/QjphFqd.png</thumbnail>
+</dir>
+
+<dir>
+<name>mtvlebanon</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-1o9XNmB6a9c/AAAAAAAAAAI/AAAAAAAAAAA/jKUrvHVFEfA/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>mtvlebanon</youtubeuser>
 </dir>
 
 </items>
