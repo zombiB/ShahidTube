@@ -23,7 +23,11 @@
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/qatar/qatdir.xml</link>
 <thumbnail>http://i.imgur.com/8iVfC8J.png</thumbnail>
 </dir>
-
+<dir>
+<name>AbuDhabi</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/adtv/adtvdir.xml</link>
+<thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
+</dir>
 <dir>
 <name>Kuwait-VOD</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/kuwait/kwdir.xml</link>
@@ -85,12 +89,6 @@
 </dir>
 
 <dir>
-<name>Music-R</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/music-R/musdir.xml</link>
-<thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
-</dir>
-
-<dir>
 <name>islam-R</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/islam/isdir.xml</link>
 <thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
@@ -113,6 +111,20 @@
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/vlog-R/vlogdir.xml</link>
 <thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
 </dir>
+
+<dir>
+<name>French-R</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/french/frdir.xml</link>
+<thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
+</dir>
+
+<dir>
+<name>Sport</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/sport/spor.xml</link>
+<thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
+</dir>
+
+
 
 <dir>
 <name>French-R</name>
