@@ -1,15 +1,17 @@
 <items>
 
 <dir>
-<name>Comedy</name>
-<link>https://github.com/zombiB/ShahidTube/raw/master/french/comedy/comdir.xml</link>
-<thumbnail>http://i.imgur.com/8iVfC8J.png</thumbnail>
+<name>Remi GAILLARD</name>
+<type>videos</type>
+<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/t1.0-1/c0.0.320.320/p320x320/10176219_10152058906283525_8894120244249164121_n.jpg</thumbnail>
+<youtubeuser>nqtv</youtubeuser>
 </dir>
 
 <dir>
-<name>Tech</name>
-<link>https://github.com/zombiB/ShahidTube/raw/master/french/tech/tedir.xml</link>
-<thumbnail>http://i.imgur.com/8iVfC8J.png</thumbnail>
+<name>01net</name>
+<type>videos</type>
+<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/t1.0-1/539813_10151618648577650_1764314282_n.jpg</thumbnail>
+<channelid>UCUaHJ0fTA-1theR8A8Polmw</channelid>
 </dir>
 
 </items>
