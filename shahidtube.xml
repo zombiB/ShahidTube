@@ -94,12 +94,12 @@
 
 <dir>
 <name>ArabicTube</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/sport/spor.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/artube.xml</link>
 <thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
 </dir>
 <dir>
 <name>EnglishTube</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/sport/spor.xml</link>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/entube.xml</link>
 <thumbnail>http://i.imgur.com/9ODZ6js.png</thumbnail>
 </dir>
 <dir>
