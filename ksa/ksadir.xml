@@ -9,7 +9,13 @@
 
 <dir>
 <name>Popular on YouTube - Saudi Arabia</name>
-<link>http://gdata.youtube.com/feeds/api/standardfeeds/SA/most_popular?v=2</link>
+<link>http://gdata.youtube.com/feeds/api/users/UCWY-_j1MCth6yf24m58Bh_Q/uploads</link>
+<thumbnail>http://i1.ytimg.com/i/WY-_j1MCth6yf24m58Bh_Q/mq1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Popular on YouTube - Saudi Arabia</name>
+<link>http://gdata.youtube.com/feeds/api/users/UCWY-_j1MCth6yf24m58Bh_Q/videos</link>
 <thumbnail>http://i1.ytimg.com/i/WY-_j1MCth6yf24m58Bh_Q/mq1.jpg</thumbnail>
 </dir>
 
