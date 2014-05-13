@@ -6,6 +6,18 @@
 <thumbnail>https://yt3.ggpht.com/-EfyIhWjZ5UA/AAAAAAAAAAI/AAAAAAAAAAA/dVpux-V52kU/s176-c-k-no/photo.jpg</thumbnail>
 <youtubeuser>youtubenation</youtubeuser>
 </dir>
+<dir>
+<name>Lamarr Wilson</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-0zE39ecBbCU/AAAAAAAAAAI/AAAAAAAAAAA/Jg1LoiuV6Jg/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>wilsontech1</youtubeuser>
+</dir>
+<dir>
+<name>CNETTV</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-YRfuYcmY5sA/AAAAAAAAAAI/AAAAAAAAAAA/4XUYyNrEcTk/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>CNETTV</youtubeuser>
+</dir>
 
 <dir>
 <name>CGPGrey</name>
@@ -14,12 +26,26 @@
 <youtubeuser>CGPGrey</youtubeuser>
 </dir>
 
+<dir>
+<name>pbsideachannel</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-5e2ls1wwdG0/AAAAAAAAAAI/AAAAAAAAAAA/WVxsK9zID3w/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>pbsideachannel</youtubeuser>
+</dir>
+
 
 <dir>
 <name>Vsauce</name>
 <type>videos</type>
 <thumbnail>https://yt3.ggpht.com/-0YGU25OjtDM/AAAAAAAAAAI/AAAAAAAAAAA/Vhjw8Wwnu2w/s100-c-k-no/photo.jpg</thumbnail>
 <youtubeuser>Vsauce</youtubeuser>
+</dir>
+
+<dir>
+<name>minutephysics</name>
+<type>videos</type>
+<thumbnail>http://i1.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/mq1.jpg?v=d69778</thumbnail>
+<youtubeuser>minutephysics</youtubeuser>
 </dir>
 
 
@@ -89,12 +115,7 @@
 <youtubeuser>leechonfilms</youtubeuser>
 </dir>
 
-<dir>
-<name>CNETTV</name>
-<type>videos</type>
-<thumbnail>https://yt3.ggpht.com/-YRfuYcmY5sA/AAAAAAAAAAI/AAAAAAAAAAA/4XUYyNrEcTk/s100-c-k-no/photo.jpg</thumbnail>
-<youtubeuser>CNETTV</youtubeuser>
-</dir>
+
 
 <dir>
 <name>compellingtv</name>
@@ -125,7 +146,12 @@
 <thumbnail>https://yt3.ggpht.com/-GSejjEtLcbw/AAAAAAAAAAI/AAAAAAAAAAA/Pg-AvZqGbS4/s100-c-k-no/photo.jpg</thumbnail>
 <youtubeuser>HouseholdHacker</youtubeuser>
 </dir>
-
+<dir>
+<name>kipkay</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-v6pTkrz6zSE/AAAAAAAAAAI/AAAAAAAAAAA/FUvsRQgA_tg/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>kipkay</youtubeuser>
+</dir>
 <dir>
 <name>japanarchist</name>
 <type>videos</type>
@@ -133,19 +159,9 @@
 <youtubeuser>japanarchist</youtubeuser>
 </dir>
 
-<dir>
-<name>kipkay</name>
-<type>videos</type>
-<thumbnail>https://yt3.ggpht.com/-v6pTkrz6zSE/AAAAAAAAAAI/AAAAAAAAAAA/FUvsRQgA_tg/s100-c-k-no/photo.jpg</thumbnail>
-<youtubeuser>kipkay</youtubeuser>
-</dir>
 
-<dir>
-<name>Lamarr Wilson</name>
-<type>videos</type>
-<thumbnail>https://yt3.ggpht.com/-0zE39ecBbCU/AAAAAAAAAAI/AAAAAAAAAAA/Jg1LoiuV6Jg/s100-c-k-no/photo.jpg</thumbnail>
-<youtubeuser>wilsontech1</youtubeuser>
-</dir>
+
+
 
 <dir>
 <name>Lisa Irby</name>
@@ -175,13 +191,6 @@
 <type>videos</type>
 <thumbnail>https://yt3.ggpht.com/-ONeYtklQMmw/AAAAAAAAAAI/AAAAAAAAAAA/pIn_i6ZWc5Q/s100-c-k-no/photo.jpg</thumbnail>
 <youtubeuser>MediocreFilms</youtubeuser>
-</dir>
-
-<dir>
-<name>minutephysics</name>
-<type>videos</type>
-<thumbnail>http://i1.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/mq1.jpg?v=d69778</thumbnail>
-<youtubeuser>minutephysics</youtubeuser>
 </dir>
 
 <dir>
@@ -224,13 +233,6 @@
 <type>videos</type>
 <thumbnail>http://i1.ytimg.com/i/ojAC9SAqNv8lRqCMqdmvqQ/mq1.jpg?v=c76ec6</thumbnail>
 <youtubeuser>nyvs</youtubeuser>
-</dir>
-
-<dir>
-<name>pbsideachannel</name>
-<type>videos</type>
-<thumbnail>https://yt3.ggpht.com/-5e2ls1wwdG0/AAAAAAAAAAI/AAAAAAAAAAA/WVxsK9zID3w/s100-c-k-no/photo.jpg</thumbnail>
-<youtubeuser>pbsideachannel</youtubeuser>
 </dir>
 
 
