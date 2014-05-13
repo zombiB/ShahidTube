@@ -50,8 +50,18 @@
 <youtubeuser>TunMediaCenter</youtubeuser>
 </dir>
 
+<dir>
+<name>series</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-goPkt0e47wc/AAAAAAAAAAI/AAAAAAAAAAA/HckxRukXGAo/s100-c-k-no/photo.jpg</thumbnail>
+<channelid>UC-54AUQE1B5TKCFFdDiJR7Q</channelid>
+</dir>
 
-
-
+<dir>
+<name>amirati anti</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-wBqFJsAl2Y0/AAAAAAAAAAI/AAAAAAAAAAA/3nsB743wPio/s100-c-k-no/photo.jpg</thumbnail>
+<channelid>UCbBkNCoA5wop1-ZAnvCIkcA</channelid>
+</dir>
 
 </items>
