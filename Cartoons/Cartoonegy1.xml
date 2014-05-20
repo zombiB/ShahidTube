@@ -1,4 +1,5 @@
 <items>
+
 <dir>
 <name>New</name>
 <type>videos</type>
@@ -7,14 +8,14 @@
 <youtubeuser>Cartoonegy1</youtubeuser>
 </dir>
 
-<dir>
-<name>Lists</name>
-<type>playlist</type>
-<link>http://gdata.youtube.com/feeds/api/users/Cartoonegy1/playlists</link>
-<thumbnail>http://s28.postimg.org/ysfxhofgd/mq1.jpg</thumbnail>
-<youtubeuser>Cartoonegy1</youtubeuser>
-</dir>
 
+<dir>
+<name>New</name>
+<type>videos</type>
+<link>http://gdata.youtube.com/feeds/api/users/Cartoonegy1/uploads</link>
+<thumbnail>http://s28.postimg.org/ysfxhofgd/mq1.jpg</thumbnail>
+<youtubeuser>ahmedNabil97</youtubeuser>
+</dir>
 
 
 </items>
