@@ -12,12 +12,18 @@
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Tunisia/tnmedia.xml</link>
 <thumbnail>http://i.imgur.com/tDLw3Xt.png</thumbnail>
 </dir>
-
 <dir>
 <name>TNN</name>
 <type>videos</type>
 <thumbnail>http://i.imgur.com/jK11Mx8.png</thumbnail>
 <youtubeuser>tunisiatnn</youtubeuser>
+</dir>
+
+<dir>
+<name>TNN</name>
+<type>videos</type>
+<thumbnail>https://pbs.twimg.com/profile_images/481827316822056960/QBvIUeHl_400x400.png</thumbnail>
+<youtubeuser>FIRSTTVTUNISIA</youtubeuser>
 </dir>
 
 <dir>
@@ -74,12 +80,6 @@
 <youtubeuser>telvzatvchannel</youtubeuser>
 </dir>
 
-<dir>
-<name>QalamTV</name>
-<type>videos</type>
-<thumbnail>http://i.imgur.com/Ua9Juhd.png</thumbnail>
-<youtubeuser>QalamTV</youtubeuser>
-</dir>
 
 <dir>
 <name>ZitounaTv</name>
@@ -216,6 +216,14 @@
 <type>videos</type>
 <thumbnail>https://yt3.ggpht.com/-WCZEgtlacY0/AAAAAAAAAAI/AAAAAAAAAAA/gDEO77ygHhw/s100-c-k-no/photo.jpg</thumbnail>
 <youtubeuser>BenzavisionTV</youtubeuser>
+</dir>
+
+
+<dir>
+<name>QalamTV</name>
+<type>videos</type>
+<thumbnail>http://i.imgur.com/Ua9Juhd.png</thumbnail>
+<youtubeuser>QalamTV</youtubeuser>
 </dir>
 
 </items>
