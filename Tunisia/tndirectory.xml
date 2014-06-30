@@ -113,11 +113,20 @@
 <thumbnail>http://i.imgur.com/wJDkLfa.png</thumbnail>
 <youtubeuser>AlinsenTv</youtubeuser>
 </dir>
+
 <dir>
-		<name>prosdelacom</name>
+		<name>presidenceTN</name>
 		<type>videos</type>
-		<thumbnail>https://yt3.ggpht.com/-44c-pqXyGOo/AAAAAAAAAAI/AAAAAAAAAAA/bIg1mx9JEJ0/s100-c-k-no/photo.jpg</thumbnail>
-		<youtubeuser>prosdelacom</youtubeuser>
+		<thumbnail>https://yt3.ggpht.com/-bOHKVHEdWXw/AAAAAAAAAAI/AAAAAAAAAAA/wfqhMKHcuMo/s100-c-k-no/photo.jpg</thumbnail>
+		<youtubeuser>presidenceTN</youtubeuser>
 		</dir>
+
+
+<dir>
+<name>prosdelacom</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-44c-pqXyGOo/AAAAAAAAAAI/AAAAAAAAAAA/bIg1mx9JEJ0/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>prosdelacom</youtubeuser>
+</dir>
 
 </items>

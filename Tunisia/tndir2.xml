@@ -33,6 +33,12 @@
 		<youtubeuser>Nawaat</youtubeuser>
 	</dir>
 	<dir>
+		<name>TnNour</name>
+		<type>videos</type>
+		<thumbnail>https://yt3.ggpht.com/-n3SDwDCA0mU/AAAAAAAAAAI/AAAAAAAAAAA/uBvFBz2Rqw0/s100-c-k-no/photo.jpg</thumbnail>
+		<youtubeuser>TnNour</youtubeuser>
+		</dir>
+	<dir>
 		<name>QalamTV</name>
 		<type>videos</type>
 		<thumbnail>http://i.imgur.com/Ua9Juhd.png</thumbnail>
@@ -44,6 +50,13 @@
 		<thumbnail>https://yt3.ggpht.com/-BlsDMowQyDk/AAAAAAAAAAI/AAAAAAAAAAA/XzhvWXuuZKs/s176-c-k-no/photo.jpg</thumbnail>
 		<youtubeuser>SHEMSFM</youtubeuser>
 		</dir>
+		<dir>
+		<name>TunisiaLive</name>
+		<type>videos</type>
+		<thumbnail>https://yt3.ggpht.com/-0XxaNNXw00Y/AAAAAAAAAAI/AAAAAAAAAAA/JAbmbl24quk/s100-c-k-no/photo.jpg</thumbnail>
+		<youtubeuser>TunisiaLive</youtubeuser>
+		</dir>
+
 
 
 
