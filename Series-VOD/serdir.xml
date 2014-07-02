@@ -1,5 +1,6 @@
 <items>
 
+
 <dir>
 <name>Embratoreyet Meen</name>
 <type>videos</type>
@@ -13,7 +14,12 @@
 <thumbnail>https://yt3.ggpht.com/-KkpQZdDX06Q/AAAAAAAAAAI/AAAAAAAAAAA/6TCChdlXDpY/s100-c-k-no/photo.jpg</thumbnail>
 <youtubeuser>Radio1eg</youtubeuser>
 </dir>
-
+<dir>
+<name>AlNaharDrama</name>
+<type>playlist</type>
+<thumbnail>https://yt3.ggpht.com/-Dd_ts1O7x1o/AAAAAAAAAAI/AAAAAAAAAAA/z3sDr-bsCtU/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>AlNaharDramaEG</youtubeuser>
+</dir>
 <dir>
 <name>RoyaDrama</name>
 <type>videos</type>
@@ -21,7 +27,12 @@
 </thumbnail>
 <youtubeuser>RoyaDrama</youtubeuser>
 </dir>
-
+<dir>
+<name>AlNaharDrama</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-Dd_ts1O7x1o/AAAAAAAAAAI/AAAAAAAAAAA/z3sDr-bsCtU/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>AlNaharDramaEG</youtubeuser>
+</dir>
 <dir>
 <name>AlHayahTV</name>
 <type>videos</type>
