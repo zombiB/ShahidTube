@@ -16,13 +16,6 @@
 </dir>
 
 <dir>
-<name>FIRSTTV</name>
-<type>videos</type>
-<thumbnail>https://pbs.twimg.com/profile_images/481827316822056960/QBvIUeHl_400x400.png</thumbnail>
-<youtubeuser>FIRSTTVTUNISIA</youtubeuser>
-</dir>
-
-<dir>
 <name>watania1</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Tunisia/watania1.xml</link>
 <thumbnail>http://i.imgur.com/yxoEfah.png</thumbnail>
@@ -36,16 +29,16 @@
 </dir>
 
 <dir>
-<name>Ettounsya</name>
+<name>elhiwarettounsi</name>
 <type>videos</type>
-<thumbnail>http://i.imgur.com/6wNyQ59.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/562672609804816384/vRQvKfK_.png</thumbnail>
 <youtubeuser>EttounsiaReplay</youtubeuser>
 </dir>
 
 <dir>
 <name>Hannibaltv</name>
 <link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Tunisia/hannibaltv.xml</link>
-<thumbnail>http://i.imgur.com/b0Wrf8v.png</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-sVDS1rBAvks/AAAAAAAAAAI/AAAAAAAAAAA/NFoGudccd_I/s100-c-k-no/photo.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -54,13 +47,13 @@
 <thumbnail>http://i.imgur.com/UKONZIt.png</thumbnail>
 <youtubeuser>NessmaTVReplay</youtubeuser>
 </dir>
-<dir>
-<name>NessmaTv2</name>
-<type>videos</type>
-<thumbnail>http://i.imgur.com/UKONZIt.png</thumbnail>
-<youtubeuser>nessmatvreplays</youtubeuser>
-</dir>
 
+<dir>
+<name>Attessia TV</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-qKMsk61DQ38/AAAAAAAAAAI/AAAAAAAAAAA/Px3jU7B1XUs/s100-c-k-no/photo.jpg</thumbnail>
+<channelid>UCQS3ejF2jBAhwmbGD9Q3oeA</channelid>
+</dir>
 <dir>
 <name>AlMutawasit</name>
 <type>videos</type>
@@ -102,7 +95,12 @@
 <thumbnail>http://i.imgur.com/4lERtGY.png</thumbnail>
 <youtubeuser>elhiwarettounsitv</youtubeuser>
 </dir>
-
+<dir>
+<name>FIRSTTV</name>
+<type>videos</type>
+<thumbnail>https://pbs.twimg.com/profile_images/481827316822056960/QBvIUeHl_400x400.png</thumbnail>
+<youtubeuser>FIRSTTVTUNISIA</youtubeuser>
+</dir>
 <dir>
 <name>InsenTv</name>
 <type>videos</type>
