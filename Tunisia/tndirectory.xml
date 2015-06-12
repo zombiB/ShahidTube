@@ -7,11 +7,7 @@
 <channelid>UCPjnVI-0UQ94bX0VJksrxOA</channelid>
 </dir>
 
-<dir>
-<name>TnMedias</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Tunisia/tnmedia.xml</link>
-<thumbnail>http://i.imgur.com/tDLw3Xt.png</thumbnail>
-</dir>
+
 <dir>
 <name>TNN</name>
 <type>videos</type>
@@ -113,7 +109,11 @@
 <thumbnail>http://i.imgur.com/wJDkLfa.png</thumbnail>
 <youtubeuser>AlinsenTv</youtubeuser>
 </dir>
-
+<dir>
+<name>TnMedias</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/Tunisia/tnmedia.xml</link>
+<thumbnail>http://i.imgur.com/tDLw3Xt.png</thumbnail>
+</dir>
 <dir>
 		<name>presidenceTN</name>
 		<type>videos</type>
