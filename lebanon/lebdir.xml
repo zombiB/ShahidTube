@@ -1,12 +1,79 @@
 <items>
 
+<items>
 
+
+<dir>
+<name>AlJadeed</name>
+<type>videos</type>
+<thumbnail>http://i.imgur.com/Bv9ryj4.png</thumbnail>
+<youtubeuser>Aljadeedprograms</youtubeuser>
+</dir>
+
+<dir>
+<name>future TV</name>
+<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/lebanon/future.xml</link>
+<thumbnail>http://i.imgur.com/QjphFqd.png</thumbnail>
+</dir>
+
+<dir>
+<name>mtvlebanon</name>
+<type>videos</type>
+<thumbnail>http://i1064.photobucket.com/albums/u379/zombiB/mtv_zpsadd2693c.png</thumbnail>
+<youtubeuser>mtvlebanon</youtubeuser>
+</dir>
+
+<dir>
+<name>Al Manar</name>
+<type>videos</type>
+<thumbnail>http://i1064.photobucket.com/albums/u379/zombiB/mnr_zps7a353ffa.png</thumbnail>
+<channelid>UCZPfLELc0v3PN0dacDEasyg</channelid>
+</dir>
+<dir>
+<name>OtvLebanon</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-m0pQvf5oAic/AAAAAAAAAAI/AAAAAAAAAAA/DT-Po4j1q1g/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>OtvLebanon</youtubeuser>
+</dir>
+
+<dir>
+<name>nbnlb</name>
+<type>videos</type>
+<thumbnail>http://i1064.photobucket.com/albums/u379/zombiB/nbn_zps0e94bd3c.png</thumbnail>
+<youtubeuser>nbnlb</youtubeuser>
+</dir>
+<dir>
+<name>lbcgroup</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-Dy0fH96YvF8/AAAAAAAAAAI/AAAAAAAAAAA/JP5W8z4Ft1U/s100-c-k-no/photo.jpg</thumbnail>
+<youtubeuser>lbcgroup</youtubeuser>
+</dir>
+<dir>
+<name>OtvLebanon-archives</name>
+<type>videos</type>
+<thumbnail>https://yt3.ggpht.com/-m0pQvf5oAic/AAAAAAAAAAI/AAAAAAAAAAA/DT-Po4j1q1g/s100-c-k-no/photo.jpg</thumbnail>
+<channelid>UC7Y0gD0M4oo2QPVkUFmfMIA</channelid>
+</dir>
 <dir>
 <name>nbnlb-archives</name>
 <type>videos</type>
 <thumbnail>http://i1064.photobucket.com/albums/u379/zombiB/nbn_zps0e94bd3c.png</thumbnail>
 <channelid>UCaSItYdyNszMAKLvjFuXXww</channelid>
 </dir>
+<dir>
+<name></name>
+<type>videos</type>
+<thumbnail></thumbnail>
+<youtubeuser></youtubeuser>
+</dir>
+<dir>
+<name></name>
+<type>videos</type>
+<thumbnail></thumbnail>
+<youtubeuser></youtubeuser>
+</dir>
+
+</items>
 
 
 
