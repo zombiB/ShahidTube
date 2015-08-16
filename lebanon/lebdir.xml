@@ -8,51 +8,7 @@
 <youtubeuser>aljadeedonline</youtubeuser>
 </dir>
 
-<dir>
-<name>future TV</name>
-<link>https://raw.githubusercontent.com/zombiB/ShahidTube/master/lebanon/future.xml</link>
-<thumbnail>http://i.imgur.com/QjphFqd.png</thumbnail>
-</dir>
 
-<dir>
-<name>mtvlebanon</name>
-<type>videos</type>
-<thumbnail>http://i1064.photobucket.com/albums/u379/zombiB/mtv_zpsadd2693c.png</thumbnail>
-<youtubeuser>mtvlebanon</youtubeuser>
-</dir>
-
-<dir>
-<name>Al Manar</name>
-<type>videos</type>
-<thumbnail>http://i1064.photobucket.com/albums/u379/zombiB/mnr_zps7a353ffa.png</thumbnail>
-<channelid>UCh8BdTka1DRnu4uHrEB-EaA</channelid>
-</dir>
-<dir>
-<name>OtvLebanon</name>
-<type>videos</type>
-<thumbnail>https://yt3.ggpht.com/-m0pQvf5oAic/AAAAAAAAAAI/AAAAAAAAAAA/DT-Po4j1q1g/s100-c-k-no/photo.jpg</thumbnail>
-<youtubeuser>OtvLebanon</youtubeuser>
-</dir>
-
-<dir>
-<name>nbnlb</name>
-<type>videos</type>
-<thumbnail>http://i1064.photobucket.com/albums/u379/zombiB/nbn_zps0e94bd3c.png</thumbnail>
-<youtubeuser>nbnlb</youtubeuser>
-</dir>
-
-<dir>
-<name>OtvLebanon-archives</name>
-<type>videos</type>
-<thumbnail>https://yt3.ggpht.com/-m0pQvf5oAic/AAAAAAAAAAI/AAAAAAAAAAA/DT-Po4j1q1g/s100-c-k-no/photo.jpg</thumbnail>
-<channelid>UC7Y0gD0M4oo2QPVkUFmfMIA</channelid>
-</dir>
-<dir>
-<name>nbnlb-archives</name>
-<type>videos</type>
-<thumbnail>http://i1064.photobucket.com/albums/u379/zombiB/nbn_zps0e94bd3c.png</thumbnail>
-<channelid>UCaSItYdyNszMAKLvjFuXXww</channelid>
-</dir>
 
 
 </items>
